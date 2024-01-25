@@ -1,3 +1,4 @@
+![logo](https://github.com/ask-Osborne/ask-Osborne/assets/154265439/ec41d211-ce74-4133-a882-2036f2fbfa41)
 # Hi there! 👋
 
 I'm Giftson-Osborne Affum, a passionate 📊 Data Analyst, 💼 Business Intelligence Analyst, and 👨‍💼 Entrepreneur with expertise in turning data into actionable insights. Welcome to my GitHub! 🚀
