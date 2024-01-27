@@ -30,18 +30,8 @@ I'm Giftson-Osborne Affum, a passionate 📊 Data Analyst, 💼 Business Intelli
 - **Visualization Tools**: Tableau 📈, Power BI 🔍
 
 ## Projects
-
-Here are highlights of some of my projects:
-
-### [Car Wash Pricing Model](https://github.com/ask-Osborne/Python_codes/blob/main/Car%20Wash%20Pricing%20Model.ipynb)
-
-- Created a pricing model for a car wash using Python.
-- [Link to the Jupyter Notebook](https://github.com/ask-Osborne/Python_codes/blob/main/Car%20Wash%20Pricing%20Model.ipynb).
-
-### [COVID-19 Dataset Exploration](https://github.com/ask-Osborne/MySQL-Portfolio/blob/main/COVID%20Portfolio%20Project%20-%20Data%20Exploration.sql)
-
-- Queried data on the COVID-19 dataset using SQL.
-- [Link to the SQL Query Script](https://github.com/ask-Osborne/MySQL-Portfolio/blob/main/COVID%20Portfolio%20Project%20-%20Data%20Exploration.sql).
+I have an array of projects that spotlight my capabilities as a data analyst, illustrating my proficiency in Python, SQL, Tableau, and R. These projects serve as tangible evidence of my skills in the field.
+[Explore Projects](https://github.com/ask-Osborne/Portfolio_guide)
 
 For more projects, you can visit my [website](https://ask-osborne.github.io/projects/).
 
